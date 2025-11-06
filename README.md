@@ -1,8 +1,8 @@
-# Fused3D: SSCD–OverLoCK Fusion Network for 3D Model Classification
+# 3D Morphological Classification via SSCD and OverLoCK Fusion Considering Severely Deformed Surface
 
 ## Overview
 This repository provides the **dataset and supporting materials** for our **preprint** paper entitled  
-**“3D Model Classification via SSCD and OverLoCK Fusion”**,  
+**“3D Morphological Classification via SSCD and OverLoCK Fusion Considering Severely Deformed Surface”**,  
 which is **intended for submission to *IEEE Transactions on Artificial Intelligence (T-AI)***.
 
 The resources contained here are released **solely for academic and research purposes** to promote transparency and reproducibility.  
