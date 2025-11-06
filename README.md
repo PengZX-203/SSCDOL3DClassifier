@@ -12,16 +12,15 @@ Please note that this repository corresponds to the **preprint version** of the 
 
 ## Repository Structure
 - `dataset/` — Contains point cloud and 2D projection data used in the experiments.  
-- `code/` — Core implementation of the Fused3D model *(to be released after paper acceptance)*.  
-- `docs/` — Supplementary documentation, experiment configurations, and visualization samples.  
+- `code/` — Core implementation of SSCD_OL model *(to be released after paper acceptance)*.   
 
 ---
 
 ## Paper Information
-**Title:** *3D Model Classification via SSCD and OverLoCK Fusion*  
+**Title:** *3D Morphological Classification via SSCD and OverLoCK Fusion Considering Severely Deformed Surface*  
 **Status:** Preprint version (under preparation for submission to *IEEE Transactions on Artificial Intelligence*)  
-**Authors:** Guofeng Xia, Zisen Hua, *et al.*  
-**Affiliation:** School of Mechanical Engineering, Chongqing Three Gorges University, China  
+**Authors:** Lin Zhang, Zixuan Peng, *et al.*  
+**Affiliation:** School of Mechanical Engineering, Shanghai Jiao Tong University, China  
 
 ---
 
@@ -42,10 +41,8 @@ Please note that this repository corresponds to the **preprint version** of the 
 
 ## Contact
 For academic collaboration, inquiries, or dataset access requests, please contact:  
-
-**Guofeng Xia** — xia_guofeng@ctgu.edu.cn  
-**Zisen Hua** — huazisen@ctgu.edu.cn  
+**Zixuan Peng** — 2025201317@aust.edu.cn
 
 ---
 
-© 2025 Chongqing Three Gorges University. All rights reserved.
+© 2025 Anhui University of Science and Technology. All rights reserved.
