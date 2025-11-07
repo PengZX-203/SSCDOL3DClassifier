@@ -21,7 +21,7 @@ Please note that this repository corresponds to the **preprint version** of the 
 **Title:** *3D Morphological Classification via SSCD and OverLoCK Fusion Considering Severely Deformed Surface*  
 **Status:** Preprint version (under preparation for submission to *IEEE Transactions on Artificial Intelligence*)  
 **Authors:** Lin Zhang, Zixuan Peng, *et al.*  
-**Affiliation:** School of Mechanical Engineering, Shanghai Jiao Tong University, China  
+**Affiliation:** School of Mechanical Engineering, Shanghai Jiao Tong University, School of Robot Engineering, Yangtze Normal University and School of Artificial Intelligence, Anhui University of Science and Technology, China
 
 ---
 
@@ -42,8 +42,8 @@ Please note that this repository corresponds to the **preprint version** of the 
 
 ## Contact
 For academic collaboration, inquiries, or dataset access requests, please contact:  
-**Zixuan Peng** — 2025201317@aust.edu.cn
+**Zixuan Peng** — PengZX203@163.com
 
 ---
 
-© 2025 Anhui University of Science and Technology. All rights reserved.
+© 2025 Yangtze Normal University and Anhui University of Science and Technology. All rights reserved.
