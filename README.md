@@ -11,9 +11,9 @@ Please note that this repository corresponds to the **preprint version** of the 
 ---
 
 ## Repository Structure
+- `Code/` — Core implementation of SSCD_OL model *(to be released after paper acceptance)*. 
 - `ModelNet10/` — Contains multi-channel scatter plots and single-channel scatter plots of ModelNet3D models
 - `Zhacai/` — Contains natural images and scatter plots of Zhacai models
-- `Code/` — Core implementation of SSCD_OL model *(to be released after paper acceptance)*.   
 
 ---
 
